@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.28)  19 APR 2023 00:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.28)  19 APR 2023 00:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -998,15 +998,15 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
  (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<montage1.png, id=4, 427.5975pt x 210.7875pt>
-File: montage1.png Graphic file (type png)
-<use montage1.png>
-Package pdftex.def Info: montage1.png  used on input line 51.
+<images/montage1.png, id=4, 427.5975pt x 210.7875pt>
+File: images/montage1.png Graphic file (type png)
+<use images/montage1.png>
+Package pdftex.def Info: images/montage1.png  used on input line 51.
 (pdftex.def)             Requested size: 232.17242pt x 114.45074pt.
-<champs1.png, id=6, 212.868pt x 86.724pt>
-File: champs1.png Graphic file (type png)
-<use champs1.png>
-Package pdftex.def Info: champs1.png  used on input line 58.
+<images/champs1.png, id=6, 212.868pt x 86.724pt>
+File: images/champs1.png Graphic file (type png)
+<use images/champs1.png>
+Package pdftex.def Info: images/champs1.png  used on input line 58.
 (pdftex.def)             Requested size: 232.17242pt x 94.5921pt.
 <insa.pdf, id=7, 427.5975pt x 93.34875pt>
 File: insa.pdf Graphic file (type pdf)
@@ -1023,31 +1023,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 
-{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./insa.pdf> <./montage1.png> <./champs1.png>]
-<photo.jpg, id=26, 193.4865pt x 154.395pt>
-File: photo.jpg Graphic file (type jpg)
-<use photo.jpg>
-Package pdftex.def Info: photo.jpg  used on input line 85.
+{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./insa.pdf> <./images/montage1.png> <./images/champs1.png>]
+<images/photo.jpg, id=26, 193.4865pt x 154.395pt>
+File: images/photo.jpg Graphic file (type jpg)
+<use images/photo.jpg>
+Package pdftex.def Info: images/photo.jpg  used on input line 85.
 (pdftex.def)             Requested size: 232.17242pt x 185.266pt.
-<2.1.png, id=27, 462.528pt x 346.896pt>
-File: 2.1.png Graphic file (type png)
-<use 2.1.png>
-Package pdftex.def Info: 2.1.png  used on input line 92.
+<images/2.1.png, id=27, 462.528pt x 346.896pt>
+File: images/2.1.png Graphic file (type png)
+<use images/2.1.png>
+Package pdftex.def Info: images/2.1.png  used on input line 92.
 (pdftex.def)             Requested size: 232.17242pt x 174.13039pt.
-<montage2.png, id=28, 223.38pt x 95.922pt>
-File: montage2.png Graphic file (type png)
-<use montage2.png>
-Package pdftex.def Info: montage2.png  used on input line 109.
+<images/montage2.png, id=28, 223.38pt x 95.922pt>
+File: images/montage2.png Graphic file (type png)
+<use images/montage2.png>
+Package pdftex.def Info: images/montage2.png  used on input line 109.
 (pdftex.def)             Requested size: 232.17242pt x 99.69943pt.
-<champs2.png, id=29, 237.5055pt x 105.12pt>
-File: champs2.png Graphic file (type png)
-<use champs2.png>
-Package pdftex.def Info: champs2.png  used on input line 116.
+<images/champs2.png, id=29, 237.5055pt x 105.12pt>
+File: images/champs2.png Graphic file (type png)
+<use images/champs2.png>
+Package pdftex.def Info: images/champs2.png  used on input line 116.
 (pdftex.def)             Requested size: 232.17242pt x 102.76022pt.
-<2.2.png, id=30, 462.528pt x 346.896pt>
-File: 2.2.png Graphic file (type png)
-<use 2.2.png>
-Package pdftex.def Info: 2.2.png  used on input line 137.
+<images/2.2.png, id=30, 462.528pt x 346.896pt>
+File: images/2.2.png Graphic file (type png)
+<use images/2.2.png>
+Package pdftex.def Info: images/2.2.png  used on input line 137.
 (pdftex.def)             Requested size: 362.77264pt x 272.09163pt.
 File: insa.pdf Graphic file (type pdf)
 <use insa.pdf>
@@ -1061,7 +1061,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-10.74944pt}.
 
-[2 <./photo.jpg> <./2.1.png>]
+[2 <./images/photo.jpg> <./images/2.1.png>]
 File: insa.pdf Graphic file (type pdf)
 <use insa.pdf>
 Package pdftex.def Info: insa.pdf  used on input line 149.
@@ -1074,7 +1074,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-10.74944pt}.
 
-[3 <./montage2.png> <./champs2.png> <./2.2.png>]
+[3 <./images/montage2.png> <./images/champs2.png> <./images/2.2.png>]
 File: insa.pdf Graphic file (type pdf)
 <use insa.pdf>
 Package pdftex.def Info: insa.pdf  used on input line 173.
@@ -1089,8 +1089,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4] (./Rapport.aux) ) 
 Here is how much of TeX's memory you used:
- 20778 strings out of 476025
- 442739 string characters out of 5794015
+ 20782 strings out of 476025
+ 443149 string characters out of 5794015
  1861382 words of memory out of 5000000
  40892 multiletter control sequences out of 15000+600000
  524117 words of font info for 64 fonts, out of 8000000 for 9000
