@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.28)  19 APR 2023 00:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.28)  19 APR 2023 11:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1047,11 +1047,11 @@ Package pdftex.def Info: images/champs2.png  used on input line 116.
 <images/2.2.png, id=30, 462.528pt x 346.896pt>
 File: images/2.2.png Graphic file (type png)
 <use images/2.2.png>
-Package pdftex.def Info: images/2.2.png  used on input line 137.
+Package pdftex.def Info: images/2.2.png  used on input line 136.
 (pdftex.def)             Requested size: 362.77264pt x 272.09163pt.
 File: insa.pdf Graphic file (type pdf)
 <use insa.pdf>
-Package pdftex.def Info: insa.pdf  used on input line 140.
+Package pdftex.def Info: insa.pdf  used on input line 139.
 (pdftex.def)             Requested size: 85.51797pt x 18.6694pt.
 
 
@@ -1064,7 +1064,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [2 <./images/photo.jpg> <./images/2.1.png>]
 File: insa.pdf Graphic file (type pdf)
 <use insa.pdf>
-Package pdftex.def Info: insa.pdf  used on input line 151.
+Package pdftex.def Info: insa.pdf  used on input line 150.
 (pdftex.def)             Requested size: 85.51797pt x 18.6694pt.
 
 
@@ -1077,7 +1077,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [3 <./images/montage2.png> <./images/champs2.png> <./images/2.2.png>]
 File: insa.pdf Graphic file (type pdf)
 <use insa.pdf>
-Package pdftex.def Info: insa.pdf  used on input line 177.
+Package pdftex.def Info: insa.pdf  used on input line 192.
 (pdftex.def)             Requested size: 85.51797pt x 18.6694pt.
 
 
@@ -1087,7 +1087,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-10.74944pt}.
 
-[4] (./Rapport.aux) ) 
+[4]
+File: insa.pdf Graphic file (type pdf)
+<use insa.pdf>
+Package pdftex.def Info: insa.pdf  used on input line 192.
+(pdftex.def)             Requested size: 85.51797pt x 18.6694pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.74944pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.74944pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.74944pt}.
+
+[5] (./Rapport.aux) ) 
 Here is how much of TeX's memory you used:
  20782 strings out of 476025
  443149 string characters out of 5794015
@@ -1097,10 +1110,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  84i,17n,89p,752b,527s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on Rapport.pdf (4 pages, 479844 bytes).
+Output written on Rapport.pdf (5 pages, 485356 bytes).
 PDF statistics:
- 112 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 115 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
